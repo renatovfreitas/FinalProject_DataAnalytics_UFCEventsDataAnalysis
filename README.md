@@ -5,8 +5,8 @@ This project was created intented to showcase the skills learnt during the Data 
 It does not intented to suggest or induce any betting activities.
 
 Main skills:
-Exploratory Data Analysis (EDA)
-Data Cleaning and Manipulation - dealing with missing values and outliers
-Basic Statistics and Probability
-Data Visualization 
-Storytelling / Communication  
+Exploratory Data Analysis (EDA);
+Data Cleaning and Manipulation - dealing with missing values and outliers;
+Basic Statistics and Probability;
+Data Visualization;
+Storytelling / Communication;
